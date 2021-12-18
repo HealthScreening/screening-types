@@ -1,0 +1,23 @@
+{
+  "name": "@healthscreening/screening-types",
+  "version": "1.0.0",
+  "description": "Shared types for screening functions.",
+  "main": "screeningTypes.js",
+  "types": "screeningTypes.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HealthScreening/screening-types.git"
+  },
+  "engines": {
+    "node": ">=8.X.X"
+  },
+  "author": "PythonCoderAS <sarkaraoyan@gmail.com>",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/HealthScreening/screening-types/issues"
+  },
+  "homepage": "https://github.com/HealthScreening/screening-types#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
